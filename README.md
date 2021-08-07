@@ -1,4 +1,5 @@
 # gitskills
 
-Create a new branch is quick AND simple.~~~
+<<<<<<< HEAD
+Create a new branch is quick AND simple.~~~！！！
 
